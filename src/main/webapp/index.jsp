@@ -5,5 +5,6 @@
     </head>
     <body>
       <a href='GuessServlet.ajax'>start the Guest List application</a>
+      <a href='GuessServlet.ajax'>Post List</a>
     </body>
 </html>
